@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633703659 source:d:\coding\testing008\main.cpp
+	<iostream>
+	<cstring>
+	<string.h>
+	<istream>
+

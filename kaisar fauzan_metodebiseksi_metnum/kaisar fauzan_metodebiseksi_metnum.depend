@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633508523 source:d:\coding\kaisar fauzan_metodebiseksi_metnum\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+

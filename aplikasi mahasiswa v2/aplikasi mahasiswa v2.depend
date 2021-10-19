@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1634078301 source:d:\coding\aplikasi mahasiswa v2\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstring>
+	<istream>
+
